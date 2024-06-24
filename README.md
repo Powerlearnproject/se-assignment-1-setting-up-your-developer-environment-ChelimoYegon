@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vbnbTt5m)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15306455&assignment_repo_type=AssignmentRepo)
 # Dev_Setup
 Setup Development Environment
 
@@ -36,6 +38,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
+
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
 
@@ -50,3 +53,71 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+1. Choose and Install Your Operating System: Windows 11
+Download Windows 11:
+Go to the Windows 11 Download Page.
+Click on "Download Now" and follow the instructions to create a bootable USB or install directly.
+Install Windows 11:
+Follow the installation prompts to complete the setup on your machine.
+Ensure you have a Microsoft account to sign in and access all features.
+2. Install Visual Studio Code
+Download Visual Studio Code:
+Go to the Visual Studio Code.com 
+Choose Windows(choose according to your os)
+Install Visual Studio Code:
+Run the downloaded installer and follow the setup wizard.
+Launch Visual Studio Code after installation completes.
+Also ,check the environment variables if the IDE has been added to user path
+Mine is successfully installed
+
+3. Set Up Version Control System with Git and GitHub
+Install Git:
+Go to the Git Downloads Page.
+Download and run the installer. Follow the default settings 
+
+Successfully installed,remember as dev to run as administrator always.
+Configure Git:
+Open Git Bash (installed with Git).
+Set your username and email
+Create a GitHub Account:
+Go to GitHub and sign up for a free account.
+Initialize a Git Repository:
+Navigate to your project directory in Git Bash.
+Initialize a new repository
+Create a README file and make your first commit
+Push to GitHub:
+Create a new repository on GitHub.
+Follow the instructions provided by GitHub to link your local repository and push your code:
+
+Install Python
+Download Python:
+Go to  Python.org .
+Download the latest installer.
+Install Python:
+Run the installer and ensure you check the box that says "Add Python to PATH".
+Follow the installation prompts.
+Verify Installation:
+Open Command Prompt/git confirm the download
+
+5. Install MySQL
+Download MySQL:
+Go to the MySQL.com .
+Download the MySQL Installer.
+Install MySQL:
+Run the installer and follow the setup wizard.
+Choose the setup type (Developer Default is recommended).
+Configure MySQL Server and remember the root password you set.
+7. Explore Extensions and Plugins for Visual Studio Code
+Install Extensions:
+Open Visual Studio Code.
+Go to the Extensions view by clicking on the Extensions icon in the Activity Bar.
+Search for and install extensions such as:
+Python
+Node.js
+Prettier 
+Dart 
+Flutter
+
+
+
+
